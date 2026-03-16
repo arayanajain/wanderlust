@@ -1,4 +1,4 @@
-# Wanderlust 🌍
+# Wanderlust 
 
 A full-stack travel web application that automatically generates itineraries for new cities.
 
