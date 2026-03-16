@@ -1,0 +1,278 @@
+[
+  {
+    "country": "Japan",
+    "motto": "Ancient Tradition Meets Future Tech",
+    "description": "A journey through Japan offers a beautiful contrast between serene temples, historic feudal castles, and the dazzling, high-tech energy of its modern cities. Discover the unique blend of Shinto and Zen traditions with cutting-edge pop culture.",
+    "image": "https://images.unsplash.com/photo-1542051841126-78e7343d2c61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTkyMzF8MHwxfGFsbHwxfHx8fHx8fHwxNjQ3MjUwNDAw&ixlib=rb-1.2.1&q=80&w=600",
+    "destinations": [
+      {
+        "name": "Kyoto",
+        "detail": "The cultural heart of Japan, home to over 2,000 temples and shrines. Experience traditional tea ceremonies and wander through geisha districts.",
+        "image": "https://images.unsplash.com/photo-1558231221-50a8080c3d9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTkyMzF8MHwxfGFsbHwxfHx8fHx8fHwxNjQ3MjY4Mjgw&ixlib=rb-1.2.1&q=80&w=400",
+        "itinerary": [
+          { "day": 1, "activity": "Visit Fushimi Inari Shrine and Arashiyama Bamboo Grove. Dinner in the Pontocho area." },
+          { "day": 2, "activity": "Explore Kinkaku-ji (Golden Pavilion) and Ryoan-ji Temple (Zen garden)." },
+          { "day": 3, "activity": "Discover Kiyomizu-dera Temple and Nishiki Market for local street food." }
+        ]
+      },
+      {
+        "name": "Tokyo",
+        "detail": "The world's most populous metropolis, blending neon skyscrapers with historical gardens. Explore Harajuku's fashion, Shibuya's crossing, and the tranquility of the Imperial Palace East Garden.",
+        "image": "https://images.unsplash.com/photo-1536098048252-870a27311186?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTkyMzF8MHwxfGFsbHwxfHx8fHx8fHwxNjQ3MjY4Mjgw&ixlib=rb-1.2.1&q=80&w=400",
+        "itinerary": [
+          { "day": 1, "activity": "Ascend the Tokyo Skytree. Experience the Shibuya Crossing and explore the vibrant Shinjuku district." },
+          { "day": 2, "activity": "Visit the Senso-ji Temple in Asakusa. Explore the modern art scene in Ginza." },
+          { "day": 3, "activity": "Day trip to the Imperial Palace Gardens. Evening street food tour in Shinjuku." }
+        ]
+      },
+      {
+        "name": "Osaka",
+        "detail": "Known as the nation's kitchen, Osaka is famous for its hearty street food (Takoyaki, Okonomiyaki) and the impressive reconstruction of Osaka Castle.",
+        "image": "https://images.unsplash.com/photo-1541315801948-26f6331a986d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTkyMzF8MHwxfGFsbHwxfHx8fHx8fHwxNjQ3MjY4Mjgw&ixlib=rb-1.2.1&q=80&w=400",
+        "itinerary": [
+          { "day": 1, "activity": "Tour the majestic Osaka Castle. Explore Dotonbori, famous for its neon lights and huge food signs." },
+          { "day": 2, "activity": "Spend the day enjoying local delicacies in Kuromon Market." },
+          { "day": 3, "activity": "Visit Universal Studios Japan or the Umeda Sky Building Floating Garden Observatory." }
+        ]
+      },
+      {
+        "name": "Mount Fuji",
+        "detail": "Japan's sacred and highest peak. Best viewed from the Fuji Five Lakes area (Kawaguchiko) for stunning reflections and photographs.",
+        "image": "https://images.unsplash.com/photo-1579737970729-ff825946a489?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTkyMzF8MHwxfGFsbHwxfHx8fHx8fHwxNjQ3MjY4Mjgw&ixlib=rb-1.2.1&q=80&w=400",
+        "itinerary": [
+          { "day": 1, "activity": "Arrive in Kawaguchiko. Take a boat ride on Lake Kawaguchiko for the best views of Fuji." },
+          { "day": 2, "activity": "Visit Chureito Pagoda for the classic view of Fuji and the pagoda." }
+        ]
+      },
+      {
+        "name": "Nara",
+        "detail": "An ancient capital famous for its friendly, wild Sika deer that roam freely through Nara Park. See the giant bronze Buddha at Todai-ji Temple.",
+        "image": "https://images.unsplash.com/photo-1574347719602-53b925b4104d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTkyMzF8MHwxfGFsbHwxfHx8fHx8fHwxNjQ3MjY4Mjgw&ixlib=rb-1.2.1&q=80&w=400",
+        "itinerary": [
+          { "day": 1, "activity": "Spend the day interacting with the deer in Nara Park and visiting the Great Buddha Hall." }
+        ]
+      },
+      {
+        "name": "Hiroshima",
+        "detail": "A city of peace and reflection, centered around the Peace Memorial Park and the iconic Atomic Bomb Dome. Offers powerful history lessons.",
+        "image": "https://images.unsplash.com/photo-1598284532650-6e4b8592d47d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTkyMzF8MHwxfGFsbHwxfHx8fHx8fHwxNjQ3MjY4Mjgw&ixlib=rb-1.2.1&q=80&w=400",
+        "itinerary": [
+          { "day": 1, "activity": "Visit the Peace Memorial Park and Museum. Take a ferry to Miyajima Island to see the floating torii gate." },
+          { "day": 2, "activity": "Explore Itsukushima Shrine on Miyajima Island." }
+        ]
+      },
+      {
+        "name": "Hakone",
+        "detail": "A mountainous hot spring town known for its stunning views of Mt. Fuji, scenic cruises on Lake Ashi, and traditional ryokans (inns).",
+        "image": "https://images.unsplash.com/photo-1542385150-13783c513220?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTkyMzF8MHwxfGFsbHwxfHx8fHx8fHwxNjQ3MjY4Mjgw&ixlib=rb-1.2.1&q=80&w=400",
+        "itinerary": [
+          { "day": 1, "activity": "Complete the Hakone Round Course: cable car, funicular, and Lake Ashi cruise." }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Italy",
+    "motto": "Land of Art, History, and Culinary Delights",
+    "description": "Italy is a cradle of Western civilization, offering everything from ancient Roman ruins and Renaissance masterpieces to stunning coastlines and unparalleled regional cuisine. Each region feels like a distinct country.",
+    "image": "https://images.unsplash.com/photo-1552250109-0d35091d3744?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTkyMzF8MHwxfGFsbHwxfHx8fHx8fHwxNjQ3MjUwNDAw&ixlib=rb-1.2.1&q=80&w=600",
+    "destinations": [
+      {
+        "name": "Rome",
+        "detail": "The Eternal City. Home to world-famous sites like the Colosseum, the Pantheon, and the smallest country in the world, the Vatican City.",
+        "image": "https://images.unsplash.com/photo-1552250109-0d35091d3744?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTkyMzF8MHwxfGFsbHwxfHx8fHx8fHwxNjQ3MjUwNDAw&ixlib=rb-1.2.1&q=80&w=400",
+        "itinerary": [
+          { "day": 1, "activity": "Explore the Colosseum, Roman Forum, and Palatine Hill. Enjoy a traditional dinner in Trastevere." },
+          { "day": 2, "activity": "Visit the Vatican City: St. Peter's Basilica and the Vatican Museums (including the Sistine Chapel)." },
+          { "day": 3, "activity": "Throw a coin in the Trevi Fountain, explore the Pantheon, and shop on the Spanish Steps." }
+        ]
+      },
+      {
+        "name": "Florence",
+        "detail": "The heart of the Renaissance. Marvel at Michelangelo's David and the stunning Duomo cathedral. Florence is a walking city rich with art and architectural history.",
+        "image": "https://images.unsplash.com/photo-1563842340578-8d02283a8936?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTkyMzF8MHwxfGFsbHwxfHx8fHx8fHwxNjQ3MjUwNDAw&ixlib=rb-1.2.1&q=80&w=400",
+        "itinerary": [
+          { "day": 1, "activity": "Climb the Duomo or Giotto's Campanile for city views. Visit the Accademia Gallery (David)." },
+          { "day": 2, "activity": "Walk across the Ponte Vecchio. Explore the Uffizi Gallery for Renaissance art." },
+          { "day": 3, "activity": "Take a Tuscan cooking class focusing on pasta and regional wine." }
+        ]
+      },
+      {
+        "name": "Venice",
+        "detail": "A city built on water, famous for its canals, gondolas, and St. Mark's Square. Explore the hidden alleyways and enjoy the unique atmosphere.",
+        "image": "https://images.unsplash.com/photo-1524387877239-0d7e6c1e5559?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTkyMzF8MHwxfGFsbHwxfHx8fHx8fHwxNjQ3MjUwNDAw&ixlib=rb-1.2.1&q=80&w=400",
+        "itinerary": [
+          { "day": 1, "activity": "Take a gondola ride through the narrow canals. Visit St. Mark's Basilica and Doge's Palace." },
+          { "day": 2, "activity": "Day trip to the colorful islands of Murano (glass) and Burano (lace)." }
+        ]
+      },
+      {
+        "name": "Milan",
+        "detail": "The global capital of fashion and design, a hub for finance and commerce. Home to the Duomo di Milano and Leonardo da Vinci's 'The Last Supper'.",
+        "image": "https://images.unsplash.com/photo-1551187494-d2e3d36e8b4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTkyMzF8MHwxfGFsbHwxfHx8fHx8fHwxNjQ3MjUwNDAw&ixlib=rb-1.2.1&q=80&w=400",
+        "itinerary": [
+          { "day": 1, "activity": "Tour the Duomo di Milano. Shop in the Galleria Vittorio Emanuele II." },
+          { "day": 2, "activity": "View 'The Last Supper' (book tickets in advance!). Explore the Brera district." }
+        ]
+      },
+      {
+        "name": "Amalfi Coast",
+        "detail": "Stunning coastal landscape with dramatic cliffs and picturesque towns like Positano and Amalfi clinging to the mountainsides.",
+        "image": "https://images.unsplash.com/photo-1629705910129-87c2c9d8719f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTkyMzF8MHwxfGFsbHwxfHx8fHx8fHwxNjQ3MjUwNDAw&ixlib=rb-1.2.1&q=80&w=400",
+        "itinerary": [
+          { "day": 1, "activity": "Arrive in Positano. Spend the day relaxing on the beach and exploring the boutiques." },
+          { "day": 2, "activity": "Take a boat tour of the coastline, visiting grottos and swimming spots." }
+        ]
+      },
+      {
+        "name": "Cinque Terre",
+        "detail": "Five colorful, cliffside fishing villages (Monterosso, Vernazza, Corniglia, Manarola, Riomaggiore) linked by hiking trails and a train line.",
+        "image": "https://images.unsplash.com/photo-1558231221-39e248f0701b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTkyMzF8MHwxfGFsbHwxfHx8fHx8fHwxNjQ3MjUwNDAw&ixlib=rb-1.2.1&q=80&w=400",
+        "itinerary": [
+          { "day": 1, "activity": "Hike the scenic trail between Vernazza and Monterosso. Enjoy fresh seafood dinner." },
+          { "day": 2, "activity": "Explore Riomaggiore and Manarola, taking iconic photos from Nessun Dorma." }
+        ]
+      },
+      {
+        "name": "Sicily",
+        "detail": "The largest Mediterranean island, known for its active volcano Mount Etna, stunning Greek ruins, and complex, vibrant cuisine.",
+        "image": "https://images.unsplash.com/photo-1628172935293-85f0f35e9858?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTkyMzF8MHwxfGFsbHwxfHx8fHx8fHwxNjQ3MjUwNDAw&ixlib=rb-1.2.1&q=80&w=400",
+        "itinerary": [
+          { "day": 1, "activity": "Explore the Valley of the Temples (Greek ruins). Enjoy a Sicilian wine tasting." },
+          { "day": 2, "activity": "Day trip to Mount Etna. Explore the beautiful coastal town of Taormina." }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "France",
+    "motto": "The Epitome of Romance, Art, and Gastronomy",
+    "description": "France offers a diversity of experiences, from the cultural sophistication of Paris to the sun-drenched beaches of the Riviera and the world-renowned vineyards of Bordeaux. It is the global benchmark for luxury and cuisine.",
+    "image": "https://images.unsplash.com/photo-1506543781297-b648083818e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTkyMzF8MHwxfGFsbHwxfHx8fHx8fHwxNjQ3MjUwNDAw&ixlib=rb-1.2.1&q=80&w=600",
+    "destinations": [
+      {
+        "name": "Paris",
+        "detail": "The City of Lights and Love. Famous for the Eiffel Tower, the Louvre Museum, Notre Dame, and its sidewalk café culture.",
+        "image": "https://images.unsplash.com/photo-1543349684-2e90954b41a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTkyMzF8MHwxfGFsbHwxfHx8fHx8fHwxNjQ3MjUwNDAw&ixlib=rb-1.2.1&q=80&w=400",
+        "itinerary": [
+          { "day": 1, "activity": "Visit the Eiffel Tower and take a relaxing evening cruise on the Seine River." },
+          { "day": 2, "activity": "Explore the Louvre Museum (Mona Lisa) and Notre Dame Cathedral. Wander the Latin Quarter." },
+          { "day": 3, "activity": "Wander through the artistic hill of Montmartre and visit the Sacré-Cœur Basilica." }
+        ]
+      },
+      {
+        "name": "Nice",
+        "detail": "Jewel of the French Riviera. Enjoy the Promenade des Anglais, beautiful pebble beaches, and the vibrant Old Town.",
+        "image": "https://images.unsplash.com/photo-1536647963363-2287f3b8f10b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTkyMzF8MHwxfGFsbHwxfHx8fHx8fHwxNjQ3MjUwNDAw&ixlib=rb-1.2.1&q=80&w=400",
+        "itinerary": [
+          { "day": 1, "activity": "Walk the Promenade des Anglais. Visit the Cours Saleya Flower Market." },
+          { "day": 2, "activity": "Day trip to Monaco and explore the Prince's Palace." }
+        ]
+      },
+      {
+        "name": "Bordeaux",
+        "detail": "The world's wine capital. Explore elegant architecture and take a tour of the famous Châteaux in the surrounding vineyards for unparalleled wine tasting.",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTkyMzF8MHwxfGFsbHwxfHx8fHx8fHwxNjQ3MjUwNDAw&ixlib=rb-1.2.1&q=80&w=400",
+        "itinerary": [
+          { "day": 1, "activity": "Explore the historic center and the Place de la Bourse's Miroir d'eau." },
+          { "day": 2, "activity": "Full-day tour of the Médoc or Saint-Émilion vineyards." }
+        ]
+      },
+      {
+        "name": "Lyon",
+        "detail": "France's gastronomic capital. Famous for its traditional 'bouchon' restaurants, traboules (hidden passageways), and a stunning Roman theatre.",
+        "image": "https://images.unsplash.com/photo-1528659613149-a2927e19574d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTkyMzF8MHwxfGFsbHwxfHx8fHx8fHwxNjQ3MjUwNDAw&ixlib=rb-1.2.1&q=80&w=400",
+        "itinerary": [
+          { "day": 1, "activity": "Lunch at a traditional bouchon. Explore the Roman ruins and the Fourvière Basilica." },
+          { "day": 2, "activity": "Visit the Musée des Confluences or explore the local silk industry history." }
+        ]
+      },
+      {
+        "name": "Marseille",
+        "detail": "The oldest city in France, centered around its vibrant Vieux Port. Known for its historical sites, diverse culture, and the famous Notre-Dame de la Garde Basilica.",
+        "image": "https://images.unsplash.com/photo-1575836262453-61b6f0e6e768?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTkyMzF8MHwxfGFsbHwxfHx8fHx8fHwxNjQ3MjUwNDAw&ixlib=rb-1.2.1&q=80&w=400",
+        "itinerary": [
+          { "day": 1, "activity": "Visit the Vieux Port and take a boat to the Calanques National Park." },
+          { "day": 2, "activity": "Explore the Basilica of Notre-Dame de la Garde for panoramic city views." }
+        ]
+      },
+      {
+        "name": "Versailles",
+        "detail": "The magnificent former residence of French Kings, most notably Louis XIV. The palace and its elaborate gardens showcase royal opulence.",
+        "image": "https://images.unsplash.com/photo-1598402517032-15f5d2c0b769?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTkyMzF8MHwxfGFsbHwxfHx8fHx8fHwxNjQ3MjUwNDAw&ixlib=rb-1.2.1&q=80&w=400",
+        "itinerary": [
+          { "day": 1, "activity": "Full-day tour of the Palace of Versailles and its extensive gardens, including the Trianon Palaces." }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Thailand",
+    "motto": "Land of Smiles: Beaches and Temples",
+    "description": "Thailand offers an incredible variety of travel experiences, from the bustling street life of Bangkok and the ancient ruins of Sukhothai to the idyllic beaches and crystal-clear waters of the southern islands.",
+    "image": "https://images.unsplash.com/photo-1549474776-85f269a23c31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTkyMzF8MHwxfGFsbHwxfHx8fHx8fHwxNjQ3MjUwNDAw&ixlib=rb-1.2.1&q=80&w=600",
+    "destinations": [
+      {
+        "name": "Bangkok",
+        "detail": "A city of contrasts: glittering temples (Wat Arun, Wat Pho), bustling markets, and modern rooftop bars. Experience a frenetic energy alongside pockets of calm and tradition.",
+        "image": "https://images.unsplash.com/photo-1547847775-7b8c6e269223?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTkyMzF8MHwxfGFsbHwxfHx8fHx8fHwxNjQ3MjY4Mjgw&ixlib=rb-1.2.1&q=80&w=400",
+        "itinerary": [
+          { "day": 1, "activity": "Visit the Grand Palace and Wat Pho (Reclining Buddha). Evening market and street food tour." },
+          { "day": 2, "activity": "Explore the floating markets (Damnoen Saduak) and take a longtail boat ride on the Chao Phraya River." }
+        ]
+      },
+      {
+        "name": "Chiang Mai",
+        "detail": "The cultural capital of Northern Thailand, surrounded by mountains. Famous for its historic walled city, hundreds of temples, and as a base for elephant sanctuaries and hill tribe visits.",
+        "image": "https://images.unsplash.com/photo-1587595304724-4f51e15e6e34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTkyMzF8MHwxfGFsbHwxfHx8fHx8fHwxNjQ3MjY4Mjgw&ixlib=rb-1.2.1&q=80&w=400",
+        "itinerary": [
+          { "day": 1, "activity": "Explore the Old City temples (Wat Chedi Luang). Take a Thai cooking class." },
+          { "day": 2, "activity": "Visit the Doi Suthep temple overlooking the city. Spend the afternoon at an ethical elephant sanctuary." }
+        ]
+      },
+      {
+        "name": "Phuket",
+        "detail": "Thailand's largest island, known for Patong Beach, vibrant nightlife, and as the gateway to the stunning Phi Phi Islands.",
+        "image": "https://images.unsplash.com/photo-1550508097-f507b9a5e8f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTkyMzF8MHwxfGFsbHwxfHx8fHx8fHwxNjQ3MjY4Mjgw&ixlib=rb-1.2.1&q=80&w=400",
+        "itinerary": [
+          { "day": 1, "activity": "Relax on Patong Beach. Explore Phuket Old Town's Sino-Portuguese architecture." },
+          { "day": 2, "activity": "Full-day boat trip to the Phi Phi Islands (Maya Bay)." }
+        ]
+      },
+      {
+        "name": "Krabi",
+        "detail": "A region defined by dramatic limestone karsts, dense mangrove forests, and stunning beaches like Railay Beach, popular for rock climbing and island hopping.",
+        "image": "https://images.unsplash.com/photo-1531686701833-2a4c14c5b36e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTkyMzF8MHwxfGFsbHwxfHx8fHx8fHwxNjQ3MjY4Mjgw&ixlib=rb-1.2.1&q=80&w=400",
+        "itinerary": [
+          { "day": 1, "activity": "Take a longtail boat to Railay Beach (accessible only by boat). Spend the day climbing or swimming." },
+          { "day": 2, "activity": "Island hopping tour (Four Islands Tour) including Chicken Island and Poda Island." }
+        ]
+      },
+      {
+        "name": "Koh Lanta",
+        "detail": "A more relaxed and laid-back island compared to Phuket. Great for diving, snorkeling, and enjoying long, quiet beaches.",
+        "image": "https://images.unsplash.com/photo-1563820251786-88a2a51f893e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTkyMzF8MHwxfGFsbHwxfHx8fHx8fHwxNjQ3MjY4Mjgw&ixlib=rb-1.2.1&q=80&w=400",
+        "itinerary": [
+          { "day": 1, "activity": "Rent a scooter to explore the island's southern tip and beaches." },
+          { "day": 2, "activity": "Full-day snorkeling trip to Koh Rok or Koh Haa." }
+        ]
+      },
+      {
+        "name": "Ayutthaya",
+        "detail": "The former capital of the Siam kingdom, featuring sprawling historical parks and majestic ruined temples, a UNESCO World Heritage site.",
+        "image": "https://images.unsplash.com/photo-1596541604085-1e3c834a3177?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTkyMzF8MHwxfGFsbHwxfHx8fHx8fHwxNjQ3MjY4Mjgw&ixlib=rb-1.2.1&q=80&w=400",
+        "itinerary": [
+          { "day": 1, "activity": "Day trip from Bangkok to Ayutthaya. Rent a bicycle to explore the historical park ruins." }
+        ]
+      },
+      {
+        "name": "Sukhothai",
+        "detail": "Another stunning historical park featuring the ruins of the 13th-century Sukhothai Kingdom. Known for its distinct style of Buddha statues.",
+        "image": "https://images.unsplash.com/photo-1594943961127-18342127263c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTkyMzF8MHwxfGFsbHwxfHx8fHx8fHwxNjQ3MjY4Mjgw&ixlib=rb-1.2.1&q=80&w=400",
+        "itinerary": [
+          { "day": 1, "activity": "Explore the central and northern zones of the Sukhothai Historical Park by bicycle." }
+        ]
+      }
+    ]
+  }
+]
